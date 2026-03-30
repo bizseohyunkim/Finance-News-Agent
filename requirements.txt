@@ -1,0 +1,8 @@
+feedparser
+requests
+beautifulsoup4
+python-dotenv
+streamlit==1.38.0
+langchain-google-genai==1.0.10
+langchain==0.2.16
+altair==4.2.2
